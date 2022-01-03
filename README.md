@@ -14,5 +14,5 @@ For more information, see https://jdhao.github.io/about/.
 ----
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jdhao&show_icons=true" width="800">
+<img src="https://github-readme-stats.vercel.app/api?username=jdhao&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="800">
 </p>

@@ -1,5 +1,5 @@
 I am a machine learning engineer specialized on computer vision and a Vim/Nvim enthusiast.
-For more information, see https://jdhao.github.io/about/.
+For more information about me, check https://jdhao.github.io/about/.
 
 # Latest blog posts
 

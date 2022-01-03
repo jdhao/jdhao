@@ -5,3 +5,7 @@ For more information, see https://jdhao.github.io/about/.
 <img src="https://github-readme-stats.vercel.app/api?username=jdhao&show_icons=true" width="800">
 </p>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

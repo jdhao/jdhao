@@ -8,7 +8,7 @@ More info can be found on my website: https://jdhao.github.io/about.
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Squash Last N Commits in Git?](https://jdhao.github.io/2022/01/09/git_squash_last_n_commits/)
-- [Cutomize Your GitHub Profile](https://jdhao.github.io/2022/01/03/github_profile_readme/)
+- [Customize Your GitHub Profile](https://jdhao.github.io/2022/01/03/github_profile_readme/)
 - [Using Neovim for Three Years](https://jdhao.github.io/2021/12/31/using_nvim_after_three_years/)
 - [How to Extract Key Frames from A Video with ffmpeg](https://jdhao.github.io/2021/12/25/ffmpeg-extract-key-frame-video/)
 - [Download Files to Local Storage in iPad](https://jdhao.github.io/2021/12/25/ipad-download-file-to-local-storage/)

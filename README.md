@@ -1,5 +1,8 @@
-I am a machine learning engineer specialized on computer vision and a Vim/Nvim enthusiast.
-For more information about me, check https://jdhao.github.io/about/.
+I am an algorithm engineer who is passionate about working with computer vision.
+I have been working on various projects, ranging from image retrieval, OCR, document analysis and reconstruction,
+to video fingerprinting/deduplication.
+I am also a Vim/Nvim enthusiast, [sharing tips and tricks on using Neovim](https://jdhao.github.io/categories/Nvim/).
+More info can be found on my website: https://jdhao.github.io/about.
 
 # Latest blog posts
 

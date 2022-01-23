@@ -14,8 +14,8 @@ More info can be found on my website: https://jdhao.github.io/about.
 - [Using Neovim for Three Years](https://jdhao.github.io/2021/12/31/using_nvim_after_three_years/)
 <!-- BLOG-POST-LIST:END -->
 
-----
+# GitHub stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jdhao&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="800">
+<img src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=true&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="800">
 </p>

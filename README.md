@@ -1,8 +1,14 @@
 I am an algorithm engineer who is passionate about working with computer vision.
-I have been working on various projects, ranging from image retrieval, OCR, document analysis and reconstruction,
+I have been working on various projects, ranging from image retrieval, OCR, document image analysis and reconstruction,
 to video fingerprinting/deduplication.
 I am also a Vim/Nvim enthusiast, [sharing tips and tricks on using Neovim](https://jdhao.github.io/categories/Nvim/).
 More info can be found on my website: https://jdhao.github.io/about.
+
+# Projects
+
++ Author of [better-escape.vim](https://github.com/jdhao/better-escape.vim) -- a Vim/Neovim plugin that helps the users escape insert mode without lagging.
++ [minimal_vim](https://github.com/jdhao/minimal_vim) -- A minimal Vim/Nvim configuration in just one file without external dependencies.
++ I am maintaining [nvim-config](https://github.com/jdhao/nvim-config) -- A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 
 # Latest blog posts
 

@@ -1,7 +1,9 @@
 I am an algorithm engineer who is passionate about working with computer vision.
-I have been working on various projects, ranging from image retrieval, OCR, document image analysis and reconstruction,
+I am experienced in image processing using [OpenCV](https://jdhao.github.io/tags/OpenCV/) and [PIL](https://jdhao.github.io/tags/PIL/), and also in data visualization using [Matplotlib](https://jdhao.github.io/tags/Matplotlib/).
+I have been working on various vision-related projects, ranging from image retrieval, OCR, document image analysis and reconstruction,
 to video fingerprinting/deduplication.
-I am also a Vim/Nvim enthusiast, [sharing tips and tricks on using Neovim](https://jdhao.github.io/categories/Nvim/).
+
+I am also a FOSS lover and a Vim/Nvim enthusiast in particular, [sharing tips and tricks on using Neovim](https://jdhao.github.io/categories/Nvim/).
 More info can be found on my website: https://jdhao.github.io/about.
 
 # Projects

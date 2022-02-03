@@ -15,7 +15,7 @@ More info can be found on my website: https://jdhao.github.io/about.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [External Executable Not Allowed to Run by Default in Hugo V0.91](https://jdhao.github.io/2022/02/02/executable_not_allowed_to_run_in_hugo/)
+- [External Executable Not Allowed to Run after Hugo v0.91?](https://jdhao.github.io/2022/02/02/executable_not_allowed_to_run_in_hugo/)
 - [凉菜调味汁制作方法](https://jdhao.github.io/2022/02/01/make_sauce_for_cold_dish/)
 - [菜谱：蒜蓉炒虾](https://jdhao.github.io/2022/02/01/stir-fried-shrimp-with-garlic/)
 - [A Dig into PyTorch Model Loading](https://jdhao.github.io/2022/01/28/pytorch_model_load_error/)

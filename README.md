@@ -10,7 +10,9 @@ More info can be found on my website: https://jdhao.github.io/about.
 
 + I am maintaining [nvim-config](https://github.com/jdhao/nvim-config) -- A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
 + Author of [better-escape.vim](https://github.com/jdhao/better-escape.vim) -- a Vim/Neovim plugin that helps the users escape insert mode without lagging.
++ Author of [whitespace.nvim](https://github.com/jdhao/whitespace.nvim) -- A nvim plugin to show and trim trailing white spaces.
 + [minimal_vim](https://github.com/jdhao/minimal_vim) -- A minimal Vim/Nvim configuration in just one file without external dependencies.
++ [deep firearm](https://github.com/jdhao/deep_firearm): Using a Siamese network with double margin contrastive loss for fine-grained gun image retrieval.
 
 # Latest blog posts
 

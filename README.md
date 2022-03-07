@@ -17,11 +17,11 @@ More info can be found on my website: https://jdhao.github.io/about.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Merging Branches with Git Rebase](https://jdhao.github.io/2022/03/07/git_merge_branch_with_rebase/)
 - [Softmax with Temperature Explained](https://jdhao.github.io/2022/02/27/temperature_in_softmax/)
 - [A Curated List of File Explorers for Nvim](https://jdhao.github.io/2022/02/27/nvim_file_tree_explorer/)
 - [关于正确提问技术问题](https://jdhao.github.io/2022/02/21/on_asking_tech_questions/)
 - [Install pyav inside Ubuntu Docker](https://jdhao.github.io/2022/02/11/pyav_install_docker/)
-- [Dependency Hell When Building A PyTorch GPU Docker Image](https://jdhao.github.io/2022/02/09/dependency-hell-build-torch-GPU-docker-container/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub stats

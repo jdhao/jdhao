@@ -17,11 +17,11 @@ More info can be found on my website: https://jdhao.github.io/about.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Define A String Variable in LaTeX](https://jdhao.github.io/2022/03/14/latex_define_string_variable/)
 - [Merging Branches with Git Rebase](https://jdhao.github.io/2022/03/07/git_merge_branch_with_rebase/)
 - [Softmax with Temperature Explained](https://jdhao.github.io/2022/02/27/temperature_in_softmax/)
 - [A Curated List of File Explorers for Nvim](https://jdhao.github.io/2022/02/27/nvim_file_tree_explorer/)
 - [关于正确提问技术问题](https://jdhao.github.io/2022/02/21/on_asking_tech_questions/)
-- [Install pyav inside Ubuntu Docker](https://jdhao.github.io/2022/02/11/pyav_install_docker/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub stats

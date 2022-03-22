@@ -24,8 +24,7 @@ More info can be found on my website: https://jdhao.github.io/about.
 - [A Curated List of File Explorers for Nvim](https://jdhao.github.io/2022/02/27/nvim_file_tree_explorer/)
 <!-- BLOG-POST-LIST:END -->
 
-# GitHub stats
+# StackOverflow and GitHub stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=true&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="800">
-</p>
+[![jdhao's stackoverflow profile](https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light)](https://stackoverflow.com/users/6064933/jdhao)
+<img src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=true&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="600">

@@ -6,6 +6,14 @@ to video fingerprinting/deduplication.
 I am also a FOSS lover and a Vim/Nvim enthusiast in particular, [sharing tips and tricks on using Neovim](https://jdhao.github.io/categories/Nvim/).
 More info can be found on my website: https://jdhao.github.io/about.
 
+# Languages
+
+![Python](https://img.shields.io/badge/-Python-ffbc03?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b)
+![C](https://img.shields.io/badge/-C-888?&logo=C&logoColor=fff)
+![Vim](https://img.shields.io/badge/-Vim-019833?&logo=Vim)
+![Lua](https://img.shields.io/badge/-Lua-51a0cf?&logo=Lua)
+
 # Projects
 
 + I am maintaining [nvim-config](https://github.com/jdhao/nvim-config) -- A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...

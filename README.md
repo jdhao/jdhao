@@ -25,11 +25,11 @@ More info can be found on my website: https://jdhao.github.io/about.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Color Emoji to Image in Python](https://jdhao.github.io/2022/04/03/add_color_emoji_to_image_in_python/)
 - [How to Do Image Alpha-compositing in Pillow](https://jdhao.github.io/2022/04/01/image_alpha_composite_pillow/)
 - [地道美味炸酱制作方法](https://jdhao.github.io/2022/03/28/how_to_make_zhajiang2/)
 - [Nonlinear Activations for Neural Networks](https://jdhao.github.io/2022/03/27/neural-network-nonlinear-activation/)
 - [Accelerate Batched Image Inference in PyTorch](https://jdhao.github.io/2022/03/18/torch_accelerate_batch_inference/)
-- [Define A String Variable in LaTeX](https://jdhao.github.io/2022/03/14/latex_define_string_variable/)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow and GitHub stats

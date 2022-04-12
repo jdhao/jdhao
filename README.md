@@ -32,7 +32,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 - [Accelerate Batched Image Inference in PyTorch](https://jdhao.github.io/2022/03/18/torch_accelerate_batch_inference/)
 <!-- BLOG-POST-LIST:END -->
 
-# StackOverflow and GitHub stats
+# Stack Overflow and GitHub stats
 
-[![jdhao's stackoverflow profile](https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light)](https://stackoverflow.com/users/6064933/jdhao)
+[![jdhao's stackover flow profile](https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light)](https://stackoverflow.com/users/6064933/jdhao)
 <img src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=true&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="600">

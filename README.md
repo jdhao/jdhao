@@ -36,3 +36,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 
 [![jdhao's stackover flow profile](https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light)](https://stackoverflow.com/users/6064933/jdhao)
 <img src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=true&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="600">
+
+# Profile view
+
+<img src="https://gpvc.arturio.dev/jdhao" alt="Profile views"/>

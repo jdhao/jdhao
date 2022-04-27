@@ -25,7 +25,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How Match Non-greedily in Nvim/Vim](https://jdhao.github.io/2022/04/27/nvim_non_greedy_match/)
+- [How to Match Non-greedily in Nvim/Vim](https://jdhao.github.io/2022/04/27/nvim_non_greedy_match/)
 - [Push to GitHub with Personal Access Token &lpar;PAT&rpar;](https://jdhao.github.io/2022/04/23/github_access_token/)
 - [How to Use Tensorboard in Pytorch](https://jdhao.github.io/2022/04/20/pytorch-tensorboard-use/)
 - [How to Add Color Emoji to Image in Python](https://jdhao.github.io/2022/04/03/add_color_emoji_to_image_in_python/)

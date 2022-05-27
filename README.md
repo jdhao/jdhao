@@ -25,11 +25,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Happened When Logging without Handlers in Python](https://jdhao.github.io/2022/05/27/logging_without_handlers_python/)
 - [How To Read and Write ply File in Python](https://jdhao.github.io/2022/05/26/read_write_ply_file_python/)
 - [Lua Learning Notes](https://jdhao.github.io/2022/05/21/lua-learning-for-nvim/)
 - [Fix Nvidia Apt Repository Public Key Error](https://jdhao.github.io/2022/05/05/nvidia-apt-repo-public-key-error-fix/)
 - [豆角焖面制作](https://jdhao.github.io/2022/05/01/doujiao_menmian/)
-- [Fix the Logitech Bluetooth Shit and Use Unifying Receiver](https://jdhao.github.io/2022/04/30/fix_logitech_bluetooth_shit_use_unifying_receiver/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

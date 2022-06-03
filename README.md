@@ -25,11 +25,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning SQL from Scratch&lpar;1&rpar;: Do We Even Need to Start?](https://jdhao.github.io/2022/06/04/sql_from_scratch_for_ml_s1/)
 - [What Happened When Logging without Handlers in Python](https://jdhao.github.io/2022/05/27/logging_without_handlers_python/)
 - [How To Read and Write ply File in Python](https://jdhao.github.io/2022/05/26/read_write_ply_file_python/)
 - [Lua Learning Notes](https://jdhao.github.io/2022/05/21/lua-learning-for-nvim/)
 - [Fix Nvidia Apt Repository Public Key Error](https://jdhao.github.io/2022/05/05/nvidia-apt-repo-public-key-error-fix/)
-- [豆角焖面制作](https://jdhao.github.io/2022/05/01/doujiao_menmian/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

@@ -36,8 +36,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 
 [![jdhao's Stack Overflow profile](https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light)](https://stackoverflow.com/users/6064933/jdhao)
 
-<img alt="jdhao's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true">
-<img alt="jdhao's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=jdhao&theme=solarized-light&hide_border=true" width="48%">
+<img alt="jdhao's GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true"><img alt="jdhao's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=jdhao&theme=solarized-light&hide_border=true" width="48%">
 
 # Profile view
 

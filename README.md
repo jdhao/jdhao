@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Service Stat with uwsgitop](https://jdhao.github.io/2022/08/01/uwsgi_service_stat_monitor/)
 - [A Dive into super&lpar;&rpar; in Python](https://jdhao.github.io/2022/07/31/super_in_python/)
 - [How to Pass List by Value as Parameter in Python](https://jdhao.github.io/2022/07/27/pass_list_by_value_python/)
 - [My Life under the Shadow of Covid19](https://jdhao.github.io/2022/07/25/under_the_shadow_of_covid/)
 - [我们为何工作？](https://jdhao.github.io/2022/07/07/thought_on_working/)
-- [Nvim 0.7.2 Released](https://jdhao.github.io/2022/06/29/nvim_v07-release/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

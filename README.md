@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ctrl-left and Ctrl-right Not Working in macOS?](https://jdhao.github.io/2022/08/20/ctrl-left-right-not-work-mac/)
 - [Benchmarking Your HTTP Service Using wrk](https://jdhao.github.io/2022/08/10/http_benchmark_wrk/)
 - [How to Change Commit Author Info in Git](https://jdhao.github.io/2022/08/05/update_commit_author_info_git/)
 - [Monitoring Service Stat with uwsgitop](https://jdhao.github.io/2022/08/01/uwsgi_service_stat_monitor/)
 - [A Dive into super&lpar;&rpar; in Python](https://jdhao.github.io/2022/07/31/super_in_python/)
-- [How to Pass List by Value as Parameter in Python](https://jdhao.github.io/2022/07/27/pass_list_by_value_python/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

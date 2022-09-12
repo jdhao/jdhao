@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating A Trigger in PostgreSQL](https://jdhao.github.io/2022/09/12/postgresql_trigger_function/)
 - [Cost of Living in Shenzhen](https://jdhao.github.io/2022/09/04/cost-of-living-shenzhen/)
-- [You Do Not Need a Plugin for This](https://jdhao.github.io/2022/08/21/you-do-not-need-a-plugin-for-this/)
+- [You Do Not Need a Plugin for This Feature](https://jdhao.github.io/2022/08/21/you-do-not-need-a-plugin-for-this/)
 - [Ctrl-left and Ctrl-right Not Working in macOS?](https://jdhao.github.io/2022/08/20/ctrl-left-right-not-work-mac/)
 - [Benchmarking Your HTTP Service Using wrk](https://jdhao.github.io/2022/08/10/http_benchmark_wrk/)
-- [How to Change Commit Author Info in Git](https://jdhao.github.io/2022/08/05/update_commit_author_info_git/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

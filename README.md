@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Read Local CSV File to Table in MySQL](https://jdhao.github.io/2022/10/15/mysql_read_csv/)
 - [I read the nvim v0.8 release note so you do not have to](https://jdhao.github.io/2022/10/05/nvim-v08-release/)
 - [Creating A Trigger in PostgreSQL](https://jdhao.github.io/2022/09/12/postgresql_trigger_function/)
 - [Cost of Living in Shenzhen](https://jdhao.github.io/2022/09/04/cost-of-living-shenzhen/)
 - [You Do Not Need a Plugin for This Feature](https://jdhao.github.io/2022/08/21/you-do-not-need-a-plugin-for-this/)
-- [Ctrl-left and Ctrl-right Not Working in macOS?](https://jdhao.github.io/2022/08/20/ctrl-left-right-not-work-mac/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

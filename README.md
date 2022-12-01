@@ -38,6 +38,6 @@ More info about me can be found on my website: https://jdhao.github.io/.
 
 <img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
 
-# Vistor count
+# Visitor count
 
 <img src="https://gpvc.arturio.dev/jdhao" alt="visitor count"/>

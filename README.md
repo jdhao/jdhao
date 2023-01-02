@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [感染 omicron 记录](https://jdhao.github.io/2023/01/02/i-got-covid/)
 - [How to Override Default Options in Neovim](https://jdhao.github.io/2022/12/02/nvim-override-default-options/)
 - [Variadic Arguments in Lua](https://jdhao.github.io/2022/12/02/lua-variadic-arguments/)
 - [How to Enable Method Autocompletion for OpenCV](https://jdhao.github.io/2022/11/16/auto_completion_opencv/)
 - [How to Read Local CSV File to Table in MySQL](https://jdhao.github.io/2022/10/15/mysql_read_csv/)
-- [I read the nvim v0.8 release note so you do not have to](https://jdhao.github.io/2022/10/05/nvim-v08-release/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

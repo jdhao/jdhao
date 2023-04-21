@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set Up German Version macOS](https://jdhao.github.io/2023/04/21/macos_german_version_setup/)
 - [Add A Custom Search Engine for Vimium](https://jdhao.github.io/2023/04/18/vimium_custom_search_engine/)
 - [中国大陆小米手机如何使用 Google Pay](https://jdhao.github.io/2023/03/21/xiaomi_google_pay/)
 - [程序员海外工作---语言篇](https://jdhao.github.io/2023/02/18/work_overseas_english/)
 - [德国工签申请指南](https://jdhao.github.io/2023/01/18/german_work_visa_guide/)
-- [2022 年博客回顾](https://jdhao.github.io/2023/01/06/blog-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zsh Startup Files in macOS](https://jdhao.github.io/2023/06/16/zsh_startup_file/)
 - [PATH Variable Changed inside Tmux on macOS?](https://jdhao.github.io/2023/06/12/macos_path_changed_inside_tmux/)
 - [Work with JSON File in Neovim](https://jdhao.github.io/2023/06/12/neovim-json-file/)
 - [Running/importing External Python code in Databricks](https://jdhao.github.io/2023/06/06/databricks-run-import-code/)
 - [Agile and Scrum](https://jdhao.github.io/2023/05/24/agile_scrum/)
-- [菜谱：凉拌牛肉](https://jdhao.github.io/2023/05/21/cold_beef_with_sauce/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

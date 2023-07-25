@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pylsp setup for Neovim](https://jdhao.github.io/2023/07/22/neovim-pylsp-setup/)
+- [Nerdfont Icon Missing after Wezterm Upgrade](https://jdhao.github.io/2023/07/25/wezterm_icon_missing/)
+- [Pylsp setup for Neovim in 2023](https://jdhao.github.io/2023/07/22/neovim-pylsp-setup/)
 - [How to Parse Query Param With Multiple Values in FastAPI](https://jdhao.github.io/2023/07/13/fastapi-query-param-with-multiple-value/)
 - [菜谱：土豆胡萝卜烧牛肉](https://jdhao.github.io/2023/07/01/beef_potatoo_carrot/)
 - [Zsh Startup Files in macOS](https://jdhao.github.io/2023/06/16/zsh_startup_file/)
-- [PATH Variable Changed inside Tmux on macOS?](https://jdhao.github.io/2023/06/12/macos_path_changed_inside_tmux/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

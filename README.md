@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [菜谱：茄子肉沫](https://jdhao.github.io/2023/09/09/eggplant_with_minced_meat/)
 - [Migrating from Packer.nvim to Lazy.nvim](https://jdhao.github.io/2023/09/02/from_packer_to_lazy_nvim/)
 - [How to Extract PDF file on macOS](https://jdhao.github.io/2023/08/24/extract_pdf_macos/)
 - [How to Deploy Fastapi Application with Docker](https://jdhao.github.io/2023/08/01/fastapi-app-deployment-docker/)
 - [Nerdfont Icon Missing after Wezterm Upgrade](https://jdhao.github.io/2023/07/25/wezterm_icon_missing/)
-- [Pylsp setup for Neovim in 2023](https://jdhao.github.io/2023/07/22/neovim-pylsp-setup/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [在德国做台湾卤肉饭](https://jdhao.github.io/2023/09/22/taiwan_lu_rou_fan/)
 - [FastAPI testing and OpenAPI doc generation](https://jdhao.github.io/2023/09/20/fastapi-testing-and-openapi-spec/)
 - [Change Timezone in Databricks Spark](https://jdhao.github.io/2023/09/15/databricks-spark-change-timezone/)
 - [How to Profile Your Python Script/Module](https://jdhao.github.io/2023/09/12/python_profiling_visualization/)
 - [菜谱：茄子肉沫](https://jdhao.github.io/2023/09/09/eggplant_with_minced_meat/)
-- [Migrating from Packer.nvim to Lazy.nvim](https://jdhao.github.io/2023/09/02/from_packer_to_lazy_nvim/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

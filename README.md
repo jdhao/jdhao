@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [手抓羊肉饭制作](https://jdhao.github.io/2023/11/09/lamb_pilaf/)
 - [Databricks Init Scripts](https://jdhao.github.io/2023/10/21/databricks-init-scripts/)
 - [Using Virutal Environment in Python with venv](https://jdhao.github.io/2023/10/11/python-use-venv/)
 - [File Systems in Databricks](https://jdhao.github.io/2023/10/03/databricks-dbfs-and-other-filesystem/)
 - [LATERAL VIEW EXPLODE in Spark](https://jdhao.github.io/2023/09/26/spark_lateral_view_explode/)
-- [菜谱：麻婆豆腐](https://jdhao.github.io/2023/09/23/mapo_tou_fu/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

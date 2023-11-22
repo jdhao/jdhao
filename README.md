@@ -21,11 +21,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Download Files from Google Cloud Storage in the Databricks Workspace Notebook](https://jdhao.github.io/2023/11/21/databricks-notebook-gcloud-storage-download/)
+- [Databricks Cli Usage](https://jdhao.github.io/2023/11/21/databricks-cli-usage/)
 - [Working with Databricks Workspace Files](https://jdhao.github.io/2023/11/18/databricks-workspace-files/)
 - [手抓羊肉饭制作](https://jdhao.github.io/2023/11/09/lamb_pilaf/)
 - [Databricks Init Scripts](https://jdhao.github.io/2023/10/21/databricks-init-scripts/)
-- [Using Virutal Environment in Python with venv](https://jdhao.github.io/2023/10/11/python-use-venv/)
-- [File Systems in Databricks](https://jdhao.github.io/2023/10/03/databricks-dbfs-and-other-filesystem/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

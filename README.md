@@ -33,7 +33,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 <img alt="Hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo">
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
-<img alt="Azure" src="https://img.shields.io/static/v1?style=for-the-badge&message=Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=" />
+<img alt="Azure" src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=" />
 <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
@@ -79,8 +79,10 @@ More info about me can be found on my website: https://jdhao.github.io/.
 [![jdhao's Stack Overflow profile](https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light)](https://stackoverflow.com/users/6064933/jdhao)
 
 <div style="display: flex;">
-<img alt="jdhao's GitHub Stats" width="45.5%" src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true">
-<img alt="jdhao's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=jdhao&theme=solarized-light&hide_border=true" width="48%">
+<!-- <img alt="GitHub Stats" width="45.5%" src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true"> -->
+<!-- <img alt="GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=jdhao&theme=solarized-light&hide_border=true"> -->
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true">
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=jdhao&theme=solarized-light&hide_border=true">
 </div>
 
 # Random quotes

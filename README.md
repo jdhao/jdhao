@@ -67,11 +67,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Wezterm Issues](https://jdhao.github.io/2024/02/26/debug_wezterm_issue/)
 - [Black Formatter Setup for Python Project](https://jdhao.github.io/2024/02/22/black_formatter_setup/)
 - [Git line ending config](https://jdhao.github.io/2024/02/21/git_line_ending_config/)
 - [Garmin Forerunner 965 Essential Tips and Setups](https://jdhao.github.io/2024/02/04/garmin_forrunner_setup/)
 - [How to Download Files from Google Cloud Storage in the Databricks Workspace Notebook](https://jdhao.github.io/2023/11/21/databricks-notebook-gcloud-storage-download/)
-- [Databricks Cli Usage](https://jdhao.github.io/2023/11/21/databricks-cli-usage/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

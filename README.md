@@ -67,11 +67,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Storage Usage](https://jdhao.github.io/2024/07/10/gcloud_storage_usage/)
 - [家常煎羊排制作](https://jdhao.github.io/2024/04/09/pan-fried-lamb-chops/)
 - [凉拌茄子制作](https://jdhao.github.io/2024/04/09/eggplant_salad/)
 - [Configure Python logging with dictConfig](https://jdhao.github.io/2024/03/11/python-logging-dictconfig/)
 - [Debugging Wezterm Issues](https://jdhao.github.io/2024/02/26/debug_wezterm_issue/)
-- [Black Formatter Setup for Python Project](https://jdhao.github.io/2024/02/22/black_formatter_setup/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

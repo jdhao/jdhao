@@ -67,11 +67,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [西班牙土豆饼制作](https://jdhao.github.io/2024/09/12/potato_omelette_spanish_style/)
 - [Elasticsearch Version Conflict Error](https://jdhao.github.io/2024/09/11/elasticsearch_version_conflict_error/)
 - [How to Use the Elasticsearch task API](https://jdhao.github.io/2024/08/15/elasticsearch_task_api/)
 - [Speed up document indexing in Elasticsearch via bulk indexing](https://jdhao.github.io/2024/07/26/elasticsearch_bulk_indexing/)
 - [Index refresh issue in Elasticsearch](https://jdhao.github.io/2024/07/24/elasticsearch_doc_count_not_correct/)
-- [Google Cloud Storage Usage](https://jdhao.github.io/2024/07/10/gcloud_storage_usage/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

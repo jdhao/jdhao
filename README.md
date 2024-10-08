@@ -67,11 +67,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Retry for Google Cloud Client](https://jdhao.github.io/2024/10/08/gcloud_client_retry/)
 - [菜谱：土豆金枪鱼沙拉](https://jdhao.github.io/2024/10/02/potato_tuna_salad/)
 - [菜谱：椰香咖喱鸡](https://jdhao.github.io/2024/09/26/coco_milk_curry_chicken/)
 - [凉拌绿豆宽粉制作](https://jdhao.github.io/2024/09/23/lv_dou_kuan_fen_salad/)
 - [Make Python logging Work in GCP](https://jdhao.github.io/2024/09/20/python_logging_in_gcp/)
-- [Liveness and Readiness Check in Kubernetes](https://jdhao.github.io/2024/09/20/kubernetes_liveness_readiness_check/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stack Overflow and GitHub stats

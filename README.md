@@ -6,6 +6,35 @@ to video fingerprinting/deduplication.
 I am also a FOSS lover and a Vim/Nvim enthusiast in particular, [sharing tips and tricks on using Neovim](https://jdhao.github.io/categories/Nvim/).
 More info about me can be found on my website: https://jdhao.github.io/.
 
+# GitHub and Stack Overflow stats
+
+<div style="display: flex;">
+<img alt="GitHub Stats" width="45.5%" src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true">
+<img alt="GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=jdhao&theme=solarized-light&hide_border=true">
+</div>
+
+<a href="https://stackoverflow.com/users/6064933/jdhao">
+    <img width="45%" src="https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light" alt="jdhao's Stack Overflow profile" >
+</a>
+
+# Projects
+
++ I am maintaining [nvim-config](https://github.com/jdhao/nvim-config) -- A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
++ Author of [better-escape.vim](https://github.com/jdhao/better-escape.vim) -- a Vim/Neovim plugin that helps the users escape insert mode without lagging.
++ Author of [whitespace.nvim](https://github.com/jdhao/whitespace.nvim) -- A nvim plugin to show and trim trailing white spaces.
++ [minimal_vim](https://github.com/jdhao/minimal_vim) -- A minimal Vim/Nvim configuration in just one file without external dependencies.
++ [deep firearm](https://github.com/jdhao/deep_firearm): Using a Siamese network with double margin contrastive loss for fine-grained gun image retrieval.
+
+# Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Run the Job Immediately after Starting Scheduler in Python APScheduler](https://jdhao.github.io/2024/11/02/python_apascheduler_start_job_immediately/)
+- [Retry for Google Cloud Client](https://jdhao.github.io/2024/10/08/gcloud_client_retry/)
+- [菜谱：土豆金枪鱼沙拉](https://jdhao.github.io/2024/10/02/potato_tuna_salad/)
+- [菜谱：椰香咖喱鸡](https://jdhao.github.io/2024/09/26/coco_milk_curry_chicken/)
+- [凉拌绿豆宽粉制作](https://jdhao.github.io/2024/09/23/lv_dou_kuan_fen_salad/)
+<!-- BLOG-POST-LIST:END -->
+
 # Languages and tools
 
 <div style="display: flex;">
@@ -55,35 +84,6 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </div>
-
-# Projects
-
-+ I am maintaining [nvim-config](https://github.com/jdhao/nvim-config) -- A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
-+ Author of [better-escape.vim](https://github.com/jdhao/better-escape.vim) -- a Vim/Neovim plugin that helps the users escape insert mode without lagging.
-+ Author of [whitespace.nvim](https://github.com/jdhao/whitespace.nvim) -- A nvim plugin to show and trim trailing white spaces.
-+ [minimal_vim](https://github.com/jdhao/minimal_vim) -- A minimal Vim/Nvim configuration in just one file without external dependencies.
-+ [deep firearm](https://github.com/jdhao/deep_firearm): Using a Siamese network with double margin contrastive loss for fine-grained gun image retrieval.
-
-# Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Run the Job Immediately after Starting Scheduler in Python APScheduler](https://jdhao.github.io/2024/11/02/python_apascheduler_start_job_immediately/)
-- [Retry for Google Cloud Client](https://jdhao.github.io/2024/10/08/gcloud_client_retry/)
-- [菜谱：土豆金枪鱼沙拉](https://jdhao.github.io/2024/10/02/potato_tuna_salad/)
-- [菜谱：椰香咖喱鸡](https://jdhao.github.io/2024/09/26/coco_milk_curry_chicken/)
-- [凉拌绿豆宽粉制作](https://jdhao.github.io/2024/09/23/lv_dou_kuan_fen_salad/)
-<!-- BLOG-POST-LIST:END -->
-
-# GitHub and Stack Overflow stats
-
-<div style="display: flex;">
-<img alt="GitHub Stats" width="45.5%" src="https://github-readme-stats.vercel.app/api?username=jdhao&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true">
-<img alt="GitHub Streak" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=jdhao&theme=solarized-light&hide_border=true">
-</div>
-
-<a href="https://stackoverflow.com/users/6064933/jdhao">
-    <img width="45%" src="https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light" alt="jdhao's Stack Overflow profile" >
-</a>
 
 # Random quotes
 

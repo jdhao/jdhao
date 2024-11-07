@@ -82,7 +82,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 </div>
 
 <a href="https://stackoverflow.com/users/6064933/jdhao">
-    <img src="https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light" alt="jdhao's Stack Overflow profile" >
+    <img width="45%" src="https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light" alt="jdhao's Stack Overflow profile" >
 </a>
 
 # Random quotes

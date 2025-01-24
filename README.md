@@ -28,11 +28,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparison between Several Desktop Speakers](https://jdhao.github.io/2025/01/23/kanto_speakers_comparison/)
 - [How to Use luarocks Package in Neovim](https://jdhao.github.io/2024/12/11/how_to_use_luarocks_package_in_neovim/)
 - [Macbook 外接显示器](https://jdhao.github.io/2024/12/04/external_monitor_for_macbook/)
 - [家常萝卜炖羊排](https://jdhao.github.io/2024/11/29/radish_mutton_stew/)
 - [Run the Job Immediately after Starting Scheduler in Python APScheduler](https://jdhao.github.io/2024/11/02/python_apascheduler_start_job_immediately/)
-- [Retry for Google Cloud Client](https://jdhao.github.io/2024/10/08/gcloud_client_retry/)
 <!-- BLOG-POST-LIST:END -->
 
 # Languages and tools

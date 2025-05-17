@@ -27,11 +27,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Import GPX File into Garmin](https://jdhao.github.io/2025/05/17/garmin_import_gpx_route/)
 - [Python system PATH issues When We Use Pytest](https://jdhao.github.io/2025/05/13/pytest_sys_path_issues/)
 - [菜谱：泰式打抛牛肉](https://jdhao.github.io/2025/03/11/pad_krapao_beef/)
 - [菜谱：烤箱羊肉串](https://jdhao.github.io/2025/03/08/grilled_lamb_skewer/)
 - [How to Filter Warnings in Python/pytest](https://jdhao.github.io/2025/03/05/python_filter_warnings/)
-- [家常烤箱烤鸡腿](https://jdhao.github.io/2025/02/02/oven-roasted-chicken/)
 <!-- BLOG-POST-LIST:END -->
 
 # Languages and tools

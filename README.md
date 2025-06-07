@@ -27,7 +27,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Prevent_accidental_index_delete](https://jdhao.github.io/2025/06/07/prevent_accidental_index_delete_elasticsearch/)
+- [Prevent Accidental Index Delete in Elasticsearch](https://jdhao.github.io/2025/06/07/prevent_accidental_index_delete_elasticsearch/)
 - [How to Import GPX File into Garmin](https://jdhao.github.io/2025/05/17/garmin_import_gpx_route/)
 - [Python system PATH issues When We Use Pytest](https://jdhao.github.io/2025/05/13/pytest_sys_path_issues/)
 - [菜谱：泰式打抛牛肉](https://jdhao.github.io/2025/03/11/pad_krapao_beef/)

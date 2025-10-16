@@ -27,11 +27,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Select fields in Elasticsearch: _source, fields and stored_fields](https://jdhao.github.io/2025/10/16/elasticsearch_source_vs_fields/)
 - [中式葱花饼制作](https://jdhao.github.io/2025/08/23/chinese_style_scallion_pancake/)
 - [菜谱: 凉拌苤蓝（卜留克/kohlrabi）](https://jdhao.github.io/2025/08/05/kohlrabi_pie_lan_salad/)
 - [我也有高考 PTSD](https://jdhao.github.io/2025/06/09/ptsd_about_gaokao/)
 - [Garmin Course Syncing Not Working?](https://jdhao.github.io/2025/06/08/garmin_course_syncing_not_working/)
-- [Prevent Accidental Index Delete in Elasticsearch](https://jdhao.github.io/2025/06/07/prevent_accidental_index_delete_elasticsearch/)
 <!-- BLOG-POST-LIST:END -->
 
 # Languages and tools

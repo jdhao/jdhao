@@ -27,11 +27,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [object vs nested type in data mapping in Elasticsearch](https://jdhao.github.io/2025/11/19/object_vs_nested_type_in_elastic/)
 - [Node, Index, Shard in Elasticsearch](https://jdhao.github.io/2025/11/14/elasticsearch_node_index_shard/)
 - [Logging setup for Pytest](https://jdhao.github.io/2025/10/29/pytest_logging_level_setup/)
 - [Select fields in Elasticsearch: _source, fields and stored_fields](https://jdhao.github.io/2025/10/16/elasticsearch_source_vs_fields/)
 - [中式葱花饼制作](https://jdhao.github.io/2025/08/23/chinese_style_scallion_pancake/)
-- [菜谱: 凉拌苤蓝（卜留克/kohlrabi）](https://jdhao.github.io/2025/08/05/kohlrabi_pie_lan_salad/)
 <!-- BLOG-POST-LIST:END -->
 
 # Languages and tools

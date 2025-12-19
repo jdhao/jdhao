@@ -27,11 +27,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Check Trailing White Spaces in Your Project](https://jdhao.github.io/2025/12/19/check_trailing_white_spaces/)
 - [菜谱：茄子肉丁](https://jdhao.github.io/2025/11/19/braised_eggplant_with_pork/)
 - [object vs nested type in data mapping in Elasticsearch](https://jdhao.github.io/2025/11/19/object_vs_nested_type_in_elastic/)
 - [Node, Index, Shard in Elasticsearch](https://jdhao.github.io/2025/11/14/elasticsearch_node_index_shard/)
 - [Logging setup for Pytest](https://jdhao.github.io/2025/10/29/pytest_logging_level_setup/)
-- [Select fields in Elasticsearch: _source, fields and stored_fields](https://jdhao.github.io/2025/10/16/elasticsearch_source_vs_fields/)
 <!-- BLOG-POST-LIST:END -->
 
 # Languages and tools

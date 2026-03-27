@@ -27,7 +27,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate Python Project from Pip to Uv](https://jdhao.github.io/post/migrate_project_from_pip_to_uv/)
+- [Migrate Python Project from Pip to Uv](https://jdhao.github.io/2026/03/27/migrate_project_from_pip_to_uv/)
 - [德语常用不规则动词](https://jdhao.github.io/2026/02/15/german_irregular_verb_a1_to_b2/)
 - [葱油鸡腿制作](https://jdhao.github.io/2026/02/07/scallion_oil_chicken/)
 - [Check Trailing White Spaces in Your Project](https://jdhao.github.io/2025/12/19/check_trailing_white_spaces/)

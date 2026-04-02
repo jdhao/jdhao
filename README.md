@@ -27,11 +27,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I read the nvim v0.12 release note so you don&#39;t have to](https://jdhao.github.io/2026/04/02/nvim-v012-release/)
 - [Return Different Values for Each Call of A Mock](https://jdhao.github.io/2026/03/31/different_return_value_for_each_call_of_mock/)
 - [Migrate Python Project from Pip to Uv](https://jdhao.github.io/2026/03/27/migrate_project_from_pip_to_uv/)
 - [德语常用不规则动词](https://jdhao.github.io/2026/02/15/german_irregular_verb_a1_to_b2/)
 - [葱油鸡腿制作](https://jdhao.github.io/2026/02/07/scallion_oil_chicken/)
-- [Check Trailing White Spaces in Your Project](https://jdhao.github.io/2025/12/19/check_trailing_white_spaces/)
 <!-- BLOG-POST-LIST:END -->
 
 # Languages and tools

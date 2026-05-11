@@ -27,11 +27,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Set up Python Provider for Neovim](https://jdhao.github.io/2026/05/11/nvim_python_provider_setup/)
 - [Ripgrep Config to Search Hidden Files](https://jdhao.github.io/2026/04/17/ripgrep_search_hidden_files/)
 - [Pre-commit Setup for Your Project](https://jdhao.github.io/2026/04/14/pre-commit-setup-for-your-project/)
 - [I read the nvim v0.12 release note so you don&#39;t have to](https://jdhao.github.io/2026/04/02/nvim-v012-release/)
 - [Return Different Values for Each Call of A Mock](https://jdhao.github.io/2026/03/31/different_return_value_for_each_call_of_mock/)
-- [Migrate Python Project from Pip to Uv](https://jdhao.github.io/2026/03/27/migrate_project_from_pip_to_uv/)
 <!-- BLOG-POST-LIST:END -->
 
 # Languages and tools

@@ -79,11 +79,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elasticsearch_dynamic_mapping_pitfall](https://jdhao.github.io/2026/07/03/elasticsearch_dynamic_mapping_pitfall/)
 - [Manage uv.lock file with Renovate](https://jdhao.github.io/2026/05/13/uv_lock_file_management_with_renovate/)
 - [Set up Python Provider for Neovim](https://jdhao.github.io/2026/05/11/nvim_python_provider_setup/)
 - [Ripgrep Config to Search Hidden Files](https://jdhao.github.io/2026/04/17/ripgrep_search_hidden_files/)
 - [Pre-commit Setup for Your Project](https://jdhao.github.io/2026/04/14/pre-commit-setup-for-your-project/)
-- [I read the nvim v0.12 release note so you don&#39;t have to](https://jdhao.github.io/2026/04/02/nvim-v012-release/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- References -->

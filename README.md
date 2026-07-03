@@ -1,9 +1,10 @@
-I am a machine learning engineer who is passionate about solving real-world problems using machine learning algorithms.
-I am experienced in image processing using [OpenCV](https://jdhao.github.io/tags/OpenCV/) and [PIL](https://jdhao.github.io/tags/PIL/), and also in data visualization using [Matplotlib](https://jdhao.github.io/tags/Matplotlib/).
-I have been working on various vision-related projects, ranging from image retrieval, OCR, document image analysis and reconstruction,
-to video fingerprinting/deduplication.
+I am a machine learning engineer who is passionate about solving real-world problems.
+I am currently working in E-commerce search using Elasticsearch, GCP Pub/Sub and Python.
 
-I am also a FOSS lover and a Vim/Nvim enthusiast in particular, [sharing tips and tricks on using Neovim](https://jdhao.github.io/categories/Nvim/).
+In the past, I have been working on various vision-related projects, ranging from image retrieval, OCR,
+document image analysis and reconstruction, to video fingerprinting/deduplication.
+
+I am also a FOSS lover and a [Neovim][nvim-github] enthusiast in particular, [sharing tips and tricks on using Neovim][nvim-blog-post].
 More info about me can be found on my website: https://jdhao.github.io/.
 
 # GitHub and Stack Overflow stats
@@ -15,24 +16,6 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <a href="https://stackoverflow.com/users/6064933/jdhao">
     <img width="45%" src="https://stackoverflow-card.vercel.app/?userID=6064933&theme=solarized-light" alt="jdhao's Stack Overflow profile" >
 </a>
-
-# Projects
-
-+ I am maintaining [nvim-config](https://github.com/jdhao/nvim-config) -- A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
-+ Author of [better-escape.vim](https://github.com/jdhao/better-escape.vim) -- a Vim/Neovim plugin that helps the users escape insert mode without lagging.
-+ Author of [whitespace.nvim](https://github.com/jdhao/whitespace.nvim) -- A nvim plugin to show and trim trailing white spaces.
-+ [minimal_vim](https://github.com/jdhao/minimal_vim) -- A minimal Vim/Nvim configuration in just one file without external dependencies.
-+ [deep firearm](https://github.com/jdhao/deep_firearm): Using a Siamese network with double margin contrastive loss for fine-grained gun image retrieval.
-
-# Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Manage uv.lock file with Renovate](https://jdhao.github.io/2026/05/13/uv_lock_file_management_with_renovate/)
-- [Set up Python Provider for Neovim](https://jdhao.github.io/2026/05/11/nvim_python_provider_setup/)
-- [Ripgrep Config to Search Hidden Files](https://jdhao.github.io/2026/04/17/ripgrep_search_hidden_files/)
-- [Pre-commit Setup for Your Project](https://jdhao.github.io/2026/04/14/pre-commit-setup-for-your-project/)
-- [I read the nvim v0.12 release note so you don&#39;t have to](https://jdhao.github.io/2026/04/02/nvim-v012-release/)
-<!-- BLOG-POST-LIST:END -->
 
 # Languages and tools
 
@@ -85,6 +68,24 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </div>
 
-# Random quotes
+# Projects
 
-<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
++ I am maintaining [nvim-config](https://github.com/jdhao/nvim-config) -- A modern Neovim configuration with full battery for Python, C++, Markdown, LaTeX, and more...
++ Author of [better-escape.vim](https://github.com/jdhao/better-escape.vim) -- a Vim/Neovim plugin that helps the users escape insert mode without lagging.
++ Author of [whitespace.nvim](https://github.com/jdhao/whitespace.nvim) -- A nvim plugin to show and trim trailing white spaces.
++ [minimal_vim](https://github.com/jdhao/minimal_vim) -- A minimal Vim/Nvim configuration in just one file without external dependencies.
++ [deep firearm](https://github.com/jdhao/deep_firearm): Using a Siamese network with double margin contrastive loss for fine-grained gun image retrieval.
+
+# Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Manage uv.lock file with Renovate](https://jdhao.github.io/2026/05/13/uv_lock_file_management_with_renovate/)
+- [Set up Python Provider for Neovim](https://jdhao.github.io/2026/05/11/nvim_python_provider_setup/)
+- [Ripgrep Config to Search Hidden Files](https://jdhao.github.io/2026/04/17/ripgrep_search_hidden_files/)
+- [Pre-commit Setup for Your Project](https://jdhao.github.io/2026/04/14/pre-commit-setup-for-your-project/)
+- [I read the nvim v0.12 release note so you don&#39;t have to](https://jdhao.github.io/2026/04/02/nvim-v012-release/)
+<!-- BLOG-POST-LIST:END -->
+
+<!-- References -->
+[nvim-github]: https://github.com/neovim/neovim
+[nvim-blog-post]: https://jdhao.github.io/categories/Nvim/

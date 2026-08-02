@@ -36,6 +36,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <img alt="Pyrefly" src="https://img.shields.io/endpoint?url=https://pyrefly.org/badge.json&style=for-the-badge" />
 <img alt="pytest" src="https://img.shields.io/badge/py-test-blue?logo=pytest&style=for-the-badge" />
 <img alt="Renovate" src="https://img.shields.io/badge/renovate-1A1F6C?logo=renovate&logoColor=white&style=for-the-badge" />
+<img alt="pre-commit" src="https://img.shields.io/badge/pre--commit-grey?logo=pre-commit&logoColor=white&style=for-the-badge" />
 <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img alt="PySpark" src="https://img.shields.io/badge/PySpark-ffffff?style=for-the-badge&logo=apachespark&logoColor=#E35A16">

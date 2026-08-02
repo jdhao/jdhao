@@ -42,7 +42,6 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <img alt="PySpark" src="https://img.shields.io/badge/PySpark-ffffff?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
 <img alt="sklearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white">
-<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23eeeeee.svg?style=for-the-badge&logo=Matplotlib&logoColor=blue">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="PostGres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
@@ -50,11 +49,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo">
-<img alt="Azure" src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=" />
+<img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge" />
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 <img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 <img alt="Vim" src="https://img.shields.io/badge/-Vim-019833?&logo=Vim&style=for-the-badge" />
-<img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=">
+<img alt="VS codium" src="https://img.shields.io/badge/VS%20Codium-007ACC?style=for-the-badge&logo=vscodium&logoColor=white">
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">

@@ -79,10 +79,10 @@ More info about me can be found on my website: https://jdhao.github.io/.
 
 <!-- BLOG-POST-LIST:START -->
 - [OpenTelemetry Tracing for Your FastAPI application &lpar;1&rpar;](https://jdhao.github.io/2026/08/07/opentelemetry-tracing-part1/)
-- [Using ruff as Linter for Python Projects](https://jdhao.github.io/2026/08/02/introduce_ruff_linter_to_python_project/)
 - [Vector Field Not Shown in Source in Elasticsearch?](https://jdhao.github.io/2026/07/07/elastic_vector_not_shown_in_source/)
 - [Elasticsearch Dynamic Mapping Pitfalls](https://jdhao.github.io/2026/07/03/elasticsearch_dynamic_mapping_pitfall/)
 - [Manage uv.lock file with Renovate](https://jdhao.github.io/2026/05/13/uv_lock_file_management_with_renovate/)
+- [Set up Python Provider for Neovim](https://jdhao.github.io/2026/05/11/nvim_python_provider_setup/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- References -->

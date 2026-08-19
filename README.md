@@ -78,11 +78,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spell Checking for Your Projects](https://jdhao.github.io/2026/08/18/spell_check_tools_for_your_project/)
 - [Guide on Exporting Opentelemetry Traces to GCP](https://jdhao.github.io/2026/08/12/opentelemetry-tracing-part2/)
 - [OpenTelemetry Tracing for Your FastAPI application](https://jdhao.github.io/2026/08/07/opentelemetry-tracing-part1/)
 - [Vector Field Not Shown in Source in Elasticsearch?](https://jdhao.github.io/2026/07/07/elastic_vector_not_shown_in_source/)
 - [Elasticsearch Dynamic Mapping Pitfalls](https://jdhao.github.io/2026/07/03/elasticsearch_dynamic_mapping_pitfall/)
-- [Manage uv.lock file with Renovate](https://jdhao.github.io/2026/05/13/uv_lock_file_management_with_renovate/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- References -->

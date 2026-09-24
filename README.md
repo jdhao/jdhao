@@ -10,12 +10,12 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # GitHub and Stack Overflow stats
 
 <div style="display: flex;">
+<img alt="github overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jdhao&theme=solarized">
 <img alt="GitHub Stats" width="45.5%" src="https://github-stats-extended.vercel.app/api?username=jdhao&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true">
-</div>
-
 <a href="https://stackoverflow.com/users/6064933/jdhao">
     <img width="45%" src="https://github-readme-stackoverflow.vercel.app/?userID=6064933&layout=compact" alt="jdhao's Stack Overflow profile" >
 </a>
+</div>
 
 # Languages and tools
 

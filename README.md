@@ -78,11 +78,11 @@ More info about me can be found on my website: https://jdhao.github.io/.
 # Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pyrefly: the performant type checker for Python](https://jdhao.github.io/2026/10/08/use_pyrefly_as_type_checker/)
 - [Opentelemetry Trace Sampling in Action](https://jdhao.github.io/2026/09/06/opentelemetry-tracing-part4/)
 - [Opentelemetry Tracing Integration for GCP Logging](https://jdhao.github.io/2026/09/06/opentelemetry-tracing-part3/)
 - [Spell Checking for Your Projects](https://jdhao.github.io/2026/08/18/spell_check_tools_for_your_project/)
 - [Guide on Exporting Opentelemetry Traces to GCP](https://jdhao.github.io/2026/08/12/opentelemetry-tracing-part2/)
-- [OpenTelemetry Tracing for Your FastAPI Application](https://jdhao.github.io/2026/08/07/opentelemetry-tracing-part1/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- References -->

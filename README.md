@@ -22,6 +22,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <div style="display: flex;">
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
 <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+<img alt="Golang" src="https://img.shields.io/badge/go-%2300ACD7.svg?style=for-the-badge&logo=go&logoColor=white" />
 <img alt="shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img alt="Zsh" src="https://img.shields.io/badge/-Zsh-c5d927?&logo=Zsh&style=for-the-badge" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />

@@ -39,7 +39,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <img alt="pytest" src="https://img.shields.io/badge/py-test-blue?logo=pytest&style=for-the-badge" />
 <img alt="Renovate" src="https://img.shields.io/badge/renovate-1A1F6C?logo=renovate&logoColor=white&style=for-the-badge" />
 <img alt="pre-commit" src="https://img.shields.io/badge/pre--commit-grey?logo=pre-commit&logoColor=white&style=for-the-badge" />
-<img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+<img alt="NeoVim" src="https://img.shields.io/badge/Neovim-57A143?&style=for-the-badge&logo=neovim&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img alt="PySpark" src="https://img.shields.io/badge/PySpark-ffffff?style=for-the-badge&logo=apachespark&logoColor=#E35A16">
 <img alt="sklearn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -49,6 +49,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 <img alt="Databricks" src="https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=" />
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+<img alt="OpenCode" src="https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff">
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Hugo" src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo">
 <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge" />

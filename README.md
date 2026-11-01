@@ -35,6 +35,7 @@ More info about me can be found on my website: https://jdhao.github.io/.
 <img alt="uv" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json&style=for-the-badge" />
 <img alt="Ruff" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json&style=for-the-badge" />
 <img alt="Pyrefly" src="https://img.shields.io/endpoint?url=https://pyrefly.org/badge.json&style=for-the-badge" />
+<img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white&style=for-the-badge" />
 <img alt="pytest" src="https://img.shields.io/badge/py-test-blue?logo=pytest&style=for-the-badge" />
 <img alt="Renovate" src="https://img.shields.io/badge/renovate-1A1F6C?logo=renovate&logoColor=white&style=for-the-badge" />
 <img alt="pre-commit" src="https://img.shields.io/badge/pre--commit-grey?logo=pre-commit&logoColor=white&style=for-the-badge" />

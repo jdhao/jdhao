@@ -1,5 +1,5 @@
 I am a machine learning engineer who is passionate about solving real-world problems.
-I am currently working in E-commerce search using Elasticsearch, GCP Pub/Sub and Python.
+I am currently working in E-commerce search using Python, FastAPI, Elasticsearch and Kubernetes etc.
 
 In the past, I have been working on various vision-related projects, ranging from image retrieval, OCR,
 document image analysis and reconstruction, to video fingerprinting/deduplication.
